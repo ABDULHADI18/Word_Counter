@@ -1,6 +1,6 @@
 {
   "name": "m89--word_counter--",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "this is a word word_counter",
   "main": "index.js",
   "type": "module",
